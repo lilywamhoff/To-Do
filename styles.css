@@ -1,0 +1,40 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica;
+  text-align: left;
+}
+
+.DinnerSuggestions {
+  margin: 100px auto;
+  width: 20px;
+}
+
+.content{
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  background-color: lightblue;
+  width: 500px;
+}
+
+.name {
+  width: 400px;
+  padding: 5px;
+  margin: 5px;
+  border: none;
+  border-radius: 2px;
+  font-size: 100%;
+}
+
+.card-container {
+  padding: 30px;
+ background: ##87E8D2;
+}
+
+h1 {
+  font-size: 120%;
+  margin-bottom: 10px;
+}
